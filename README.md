@@ -106,27 +106,4 @@ Welcome to the **Backend Development Mastery Course**! Over the next 60 days, yo
 - **Day 59**: Mock Interview Preparation
 - **Day 60**: Course Recap and Certificate Distribution
 
----
-
-## **About the Instructor**
-- **Name**: Suraj Kumar Jha
-- **Handle**: @sigma_developer_
-- **Experience**: 
-  - Successfully taught over 8,000 students in JavaScript and Web Development.
-  - Managed and delivered complex client projects with heavy backend requirements.
-  - Conducted internships and courses focused on Backend and Full-Stack Development.
-- **Fun Fact**: Loves integrating AI to create innovative solutions for learners!
-
----
-
-## **How to Enroll**
-- Join the **Backend Supremacy Course** today for only **₹1999**! 
-- Limited slots available—start your backend mastery journey now!
-
----
-
-## **Contact**
-- **Instagram**: https://www.instagram.com/codesnippet3
-- **Email**: codesnippet003@gmail.com
-"# Backend_Nodejs" 
-"# Backend_Nodejs" 
+ 
